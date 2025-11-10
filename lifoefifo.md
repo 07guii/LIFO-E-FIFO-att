@@ -1,10 +1,12 @@
 # LIFO e FIFO
 
+LIFO E FIFO são conceitos em estruturas de dados, eles descrevem as ordem que os elementos são adcionados ou removidos.
+
 ## LIFO (Last In, First Out)
 
 LIFO quer dizer "Last In, First Out", o último que entra é o primeiro que sai.
 
-Um exemplo é uma pilha de pratos: o último prato que a gente coloca em cima é o primeiro que a gente tira.
+Um exemplo é uma prateleira de supermercado, o ultimo pacote de arroz posto na prateleira é o primeiro a sair.
 
 A gente usa operações como `push()` para colocar um item e `pop()` para tirar o último que entrou.
 
